@@ -1,0 +1,39 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+   "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="116" height="62" version="1.1"
+   xmlns="http://www.w3.org/2000/svg">
+   <desc>(01)20012345678909
+   </desc>
+
+   <g id="barcode" fill="#000000">
+      <rect x="0" y="0" width="116" height="62" fill="#FFFFFF" />
+      <rect x="11.00" y="10.00" width="1.00" height="33.00" />
+      <rect x="13.00" y="10.00" width="1.00" height="33.00" />
+      <rect x="17.00" y="10.00" width="3.00" height="33.00" />
+      <rect x="21.00" y="10.00" width="1.00" height="33.00" />
+      <rect x="27.00" y="10.00" width="1.00" height="33.00" />
+      <rect x="30.00" y="10.00" width="7.00" height="33.00" />
+      <rect x="41.00" y="10.00" width="1.00" height="33.00" />
+      <rect x="43.00" y="10.00" width="1.00" height="33.00" />
+      <rect x="46.00" y="10.00" width="2.00" height="33.00" />
+      <rect x="49.00" y="10.00" width="2.00" height="33.00" />
+      <rect x="52.00" y="10.00" width="5.00" height="33.00" />
+      <rect x="58.00" y="10.00" width="2.00" height="33.00" />
+      <rect x="65.00" y="10.00" width="1.00" height="33.00" />
+      <rect x="68.00" y="10.00" width="1.00" height="33.00" />
+      <rect x="70.00" y="10.00" width="1.00" height="33.00" />
+      <rect x="73.00" y="10.00" width="1.00" height="33.00" />
+      <rect x="75.00" y="10.00" width="2.00" height="33.00" />
+      <rect x="85.00" y="10.00" width="3.00" height="33.00" />
+      <rect x="91.00" y="10.00" width="2.00" height="33.00" />
+      <rect x="94.00" y="10.00" width="2.00" height="33.00" />
+      <rect x="97.00" y="10.00" width="2.00" height="33.00" />
+      <rect x="102.00" y="10.00" width="2.00" height="33.00" />
+      <rect x="105.00" y="10.00" width="1.00" height="33.00" />
+      <text x="58.00" y="52.00" text-anchor="middle"
+         font-family="Helvetica" font-size="8.0" fill="#000000" >
+         (01)20012345678909
+      </text>
+   </g>
+</svg>
