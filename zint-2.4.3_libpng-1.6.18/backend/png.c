@@ -33,8 +33,8 @@
 #endif /* _MSC_VER */
 
 #ifndef NO_PNG
-#include <zlib.h>
-#include <png.h>
+#include "zlib.h"
+#include "png.h"
 #endif /* NO_PNG */
 #include "maxipng.h"	/* Maxicode shapes */
 
